@@ -50,9 +50,24 @@ Desafio técnico do Itaú focado em desenvolvimento backend. 📦
 ## 📫 Vamos conversar?
 
 - 💼 [LinkedIn](www.linkedin.com/in/ogustavosoares)
+---
+
+## 📺 Canal do YouTube
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeuUsuario&label=Visualizações+do+perfil&color=brightgreen" alt="profile-views" />
+  <a href="https://www.youtube.com/c/SeuCanal" target="_blank">
+    <img src="https://img.shields.io/badge/Canal%20do%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal do YouTube"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Se inscreva no meu canal!</b> 🎥 Aqui compartilho conteúdos sobre Blazor, .NET, e desenvolvimento em geral!  
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@sirgs1" target="_blank">
+    <img src="https://img.youtube.com/vi/TEXTO-DO-SEU-VÍDEO-OU-ID-DE-SEU-VÍDEO/0.jpg" alt="Meu Canal no YouTube" />
+  </a>
 </p>
 
 ---
