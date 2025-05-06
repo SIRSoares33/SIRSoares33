@@ -55,7 +55,7 @@ Desafio técnico do Itaú focado em desenvolvimento backend. 📦
 ## 📺 Canal do YouTube
 
 <p align="center">
-  <a href="https://www.youtube.com/c/SeuCanal" target="_blank">
+  <a href="https://www.youtube.com/@sirgs1" target="_blank">
     <img src="https://img.shields.io/badge/Canal%20do%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal do YouTube"/>
   </a>
 </p>
