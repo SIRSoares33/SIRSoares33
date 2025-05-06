@@ -31,17 +31,22 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 🚀 Meus Projetos
+
+### 🔹 [Finance Management] (https://github.com/SIRSoares33/FinanceManagementApi)
+Sistema completo API .NET para controle de receitas e despesas. 💰  
+> Tecnologias:  ASP.NET Core, EF Core
+
+> Pretendo desenvolver o Front com Blazor WASM. 
 
 ---
 
-## 🌱 Projetos em andamento
-
-- 🚧 **Painel de Gestão Financeira com Blazor + Web API**
-- 🏁 **Simulador de Corrida F1 com lógica realista de voltas e pneus**
-- 📱 **App multiplataforma com .NET MAUI + SQLite**
+### 🔹 [Desafio Backend Itaú] ([https://github.com/SeuUsuario/desafio-backend-itau](https://github.com/SIRSoares33/desafio-itau-backend))
+Desafio técnico do Itaú focado em desenvolvimento backend. 📦  
+> Tecnologias: C#, ASP.NET Core, Web API
 
 ---
-
+---
 ## 📫 Vamos conversar?
 
 - 💼 [LinkedIn](www.linkedin.com/in/ogustavosoares)
