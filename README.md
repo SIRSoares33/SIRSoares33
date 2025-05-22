@@ -34,11 +34,8 @@
 ## 🚀 Meus Projetos
 
 ### 🔹 [Finance Management] (https://github.com/SIRSoares33/FinanceManagementApi)
-Sistema completo API .NET para controle de receitas e despesas. 💰  
+Sistema completo API e Blazor .NET para controle de receitas e despesas. 💰  
 > Tecnologias:  ASP.NET Core, EF Core
-
-> Pretendo desenvolver o Front com Blazor WASM. 
-
 ---
 
 ### 🔹 [Desafio Backend Itaú] ([https://github.com/SeuUsuario/desafio-backend-itau](https://github.com/SIRSoares33/desafio-itau-backend))
